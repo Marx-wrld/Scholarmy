@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg24"
+   width="272"
+   height="78"
+   viewBox="0 0 272 78"
+   sodipodi:docname="logo ville.svg"
+   inkscape:export-filename="C:\Users\Marx\Desktop\WEB DEVELOPMENT\Eduford\images\logo 1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview26"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="1.0238971"
+     inkscape:cx="-436.1618"
+     inkscape:cy="-63.529286"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g32"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g32">
+    <rect
+       style="fill:#decd87;stroke-width:2.62706"
+       id="rect38"
+       width="307.2684"
+       height="68.366257"
+       x="-661.43573"
+       y="-250.0143" />
+    <g
+       id="g243"
+       transform="translate(277.37163,27.346499)">
+      <path
+         id="path1145"
+         style="fill:#d40000;stroke-width:1.24359"
+         d="M -236.85202,-15.052317 -276.99595,4.7815859 -236.856,24.867478 -197.64575,4.7815859 Z m 32.05652,25.982346 c -0.12565,0.01034 -0.26784,0.04122 -0.4297,0.08355 -1.24292,0.325034 -1.35807,0.927432 -1.35807,7.091401 0,5.056279 -0.2735,7.151839 -1.0968,8.408352 -1.00951,1.540701 -1.00951,1.806727 0,3.347428 0.7269,1.109386 1.0968,3.16989 1.0968,6.11131 0,3.98492 0.13853,4.437598 1.35807,4.437598 1.21701,0 1.35806,-0.453343 1.35806,-4.359346 0,-2.884945 0.3961,-5.04746 1.17107,-6.397781 1.10847,-1.931391 1.10847,-2.109318 0,-3.33416 -0.95312,-1.053196 -1.17107,-2.630444 -1.17107,-8.477323 0,-5.99225 -0.0488,-6.983425 -0.92836,-6.911032 z m -55.18746,5.258538 c 0.0689,9.075799 0.12582,7.184724 0,18.573976 7.4275,7.896443 40.79372,7.31026 46.93162,0 -0.19437,-9.770673 0.0937,-4.553259 0,-18.573976 -14.58696,6.088468 -13.88639,7.134935 -23.80068,11.197435 -12.0133,-5.367633 -17.1944,-7.476727 -23.13094,-11.197435 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';fill:#ffffff"
+         x="-180.93808"
+         y="26.242928"
+         id="text238"><tspan
+           sodipodi:role="line"
+           id="tspan236"
+           x="-180.93808"
+           y="26.242928">Scholarmy</tspan></text>
+    </g>
+  </g>
+</svg>
